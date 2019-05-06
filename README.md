@@ -1,5 +1,10 @@
 # pixel-sorting-openCV-Practice
 Practicing image data manipulation with opencv
+Original Image: 
+
+![](image.png)
+
+Alts:
 
 ![](chromatic_image1.png)
 ![](chromatic_image2.png)
